@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#46D160"/>
+  <!-- Face -->
+  <circle cx="50" cy="55" r="30" fill="#FFFFFF"/>
+  <!-- Sunglasses -->
+  <rect x="30" y="45" width="15" height="10" rx="2" fill="#1A1A1B"/>
+  <rect x="55" y="45" width="15" height="10" rx="2" fill="#1A1A1B"/>
+  <line x1="45" y1="50" x2="55" y2="50" stroke="#1A1A1B" stroke-width="2"/>
+  <!-- Smile -->
+  <path d="M 35 65 Q 50 78 65 65" stroke="#1A1A1B" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Ears -->
+  <circle cx="25" cy="30" r="10" fill="#FFFFFF"/>
+  <circle cx="75" cy="30" r="10" fill="#FFFFFF"/>
+</svg>

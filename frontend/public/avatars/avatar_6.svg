@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#FFB000"/>
+  <!-- Face -->
+  <circle cx="50" cy="55" r="30" fill="#FFFFFF"/>
+  <!-- Star eyes -->
+  <polygon points="40,45 42,50 47,50 43,53 45,58 40,55 35,58 37,53 33,50 38,50" fill="#FFD700"/>
+  <polygon points="60,45 62,50 67,50 63,53 65,58 60,55 55,58 57,53 53,50 58,50" fill="#FFD700"/>
+  <!-- Big smile -->
+  <path d="M 35 60 Q 50 80 65 60" stroke="#1A1A1B" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Ears -->
+  <circle cx="25" cy="30" r="10" fill="#FFFFFF"/>
+  <circle cx="75" cy="30" r="10" fill="#FFFFFF"/>
+</svg>

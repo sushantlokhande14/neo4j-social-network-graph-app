@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#FF66AC"/>
+  <!-- Face -->
+  <circle cx="50" cy="55" r="30" fill="#FFFFFF"/>
+  <!-- Eyes with lashes -->
+  <circle cx="40" cy="50" r="5" fill="#1A1A1B"/>
+  <circle cx="60" cy="50" r="5" fill="#1A1A1B"/>
+  <line x1="35" y1="43" x2="38" y2="46" stroke="#1A1A1B" stroke-width="2"/>
+  <line x1="40" y1="42" x2="40" y2="46" stroke="#1A1A1B" stroke-width="2"/>
+  <line x1="45" y1="43" x2="42" y2="46" stroke="#1A1A1B" stroke-width="2"/>
+  <line x1="55" y1="43" x2="58" y2="46" stroke="#1A1A1B" stroke-width="2"/>
+  <line x1="60" y1="42" x2="60" y2="46" stroke="#1A1A1B" stroke-width="2"/>
+  <line x1="65" y1="43" x2="62" y2="46" stroke="#1A1A1B" stroke-width="2"/>
+  <!-- Smile -->
+  <path d="M 40 65 Q 50 72 60 65" stroke="#1A1A1B" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Ears with bows -->
+  <circle cx="25" cy="30" r="10" fill="#FFFFFF"/>
+  <circle cx="75" cy="30" r="10" fill="#FFFFFF"/>
+  <circle cx="20" cy="22" r="5" fill="#FF1493"/>
+  <circle cx="30" cy="22" r="5" fill="#FF1493"/>
+</svg>

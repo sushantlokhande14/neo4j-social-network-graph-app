@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#1ABC9C"/>
+  <!-- Face -->
+  <circle cx="50" cy="55" r="30" fill="#FFFFFF"/>
+  <!-- Winking eye -->
+  <circle cx="40" cy="50" r="5" fill="#1A1A1B"/>
+  <path d="M 55 50 Q 60 46 65 50" stroke="#1A1A1B" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Smirk -->
+  <path d="M 40 65 Q 55 72 65 62" stroke="#1A1A1B" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Ears -->
+  <circle cx="25" cy="30" r="10" fill="#FFFFFF"/>
+  <circle cx="75" cy="30" r="10" fill="#FFFFFF"/>
+  <!-- Tongue -->
+  <ellipse cx="62" cy="70" rx="4" ry="6" fill="#FF6B6B"/>
+</svg>

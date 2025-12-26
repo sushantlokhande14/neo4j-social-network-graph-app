@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#E74C3C"/>
+  <!-- Face -->
+  <circle cx="50" cy="55" r="30" fill="#FFFFFF"/>
+  <!-- Angry eyebrows -->
+  <line x1="32" y1="42" x2="45" y2="46" stroke="#1A1A1B" stroke-width="3" stroke-linecap="round"/>
+  <line x1="68" y1="42" x2="55" y2="46" stroke="#1A1A1B" stroke-width="3" stroke-linecap="round"/>
+  <!-- Eyes -->
+  <circle cx="40" cy="52" r="4" fill="#1A1A1B"/>
+  <circle cx="60" cy="52" r="4" fill="#1A1A1B"/>
+  <!-- Frown -->
+  <path d="M 38 70 Q 50 62 62 70" stroke="#1A1A1B" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Ears -->
+  <circle cx="25" cy="30" r="10" fill="#FFFFFF"/>
+  <circle cx="75" cy="30" r="10" fill="#FFFFFF"/>
+</svg>

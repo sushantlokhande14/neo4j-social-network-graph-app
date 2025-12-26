@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#FF4500"/>
+  <!-- Face -->
+  <circle cx="50" cy="55" r="30" fill="#FFFFFF"/>
+  <!-- Eyes -->
+  <circle cx="40" cy="50" r="5" fill="#1A1A1B"/>
+  <circle cx="60" cy="50" r="5" fill="#1A1A1B"/>
+  <!-- Smile -->
+  <path d="M 35 62 Q 50 75 65 62" stroke="#1A1A1B" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Ears -->
+  <circle cx="25" cy="30" r="10" fill="#FFFFFF"/>
+  <circle cx="75" cy="30" r="10" fill="#FFFFFF"/>
+</svg>
